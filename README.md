@@ -4,7 +4,7 @@ Student at IIT Madras (BS in Artificial Intelligence and Data Science) who turns
 
 I work with Power BI, SQL, Python, and Excel to clean data, find patterns, and present them as reports and dashboards that non-technical teams can act on.
 
-## What I do :-
+### What I do :-
 
 - Data analysis: exploratory data analysis, statistical analysis, hypothesis testing, and A/B testing
 
@@ -14,13 +14,13 @@ I work with Power BI, SQL, Python, and Excel to clean data, find patterns, and p
 
 - Data pipelines: web scraping and ETL for collecting and preparing datasets
 
-## Experience :-
+### Experience :-
 
 As a Business Data Analyst Intern at Ardhsainik Canteen(semi-military body), I tracked daily sales and purchase data and delivered analytics reports to management. I also handled scheduling, documentation, and internal communication.
 
 [sharmaadarshsmr@gmail.com].
 
-## 🖥️Tach Stack
+### 🖥️Tach Stack
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
